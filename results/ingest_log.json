@@ -1,0 +1,38 @@
+{
+  "run_at": "2026-11-14T04:43:38+00:00",
+  "documents": {
+    "luat-attp-vbhn61-2025": {
+      "paragraphs_read": 610,
+      "preamble_paragraphs_skipped": 11,
+      "heading_lines_moved_to_metadata": 67,
+      "stopped_at": null,
+      "articles_with_content": 71,
+      "max_article_number": 72,
+      "missing_article_numbers": [],
+      "duplicate_article_numbers": [],
+      "content_chars": 70001
+    },
+    "nd15-2018": {
+      "paragraphs_read": 1067,
+      "preamble_paragraphs_skipped": 10,
+      "heading_lines_moved_to_metadata": 26,
+      "stopped_at": "Nơi nhận: - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó",
+      "articles_with_content": 44,
+      "max_article_number": 44,
+      "missing_article_numbers": [],
+      "duplicate_article_numbers": [],
+      "content_chars": 63587
+    }
+  },
+  "errors": [],
+  "empty_articles": [
+    {
+      "unit_id": "luat-attp-vbhn61-2025:D66",
+      "heading": "Điều 66. (được bãi bỏ)"
+    }
+  ],
+  "content_units": 115,
+  "content_chars": 133588,
+  "units_of_1500_chars": 89,
+  "read_seconds": 0.989
+}

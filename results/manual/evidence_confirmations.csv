@@ -1,0 +1,23 @@
+﻿strategy,question_id,chunk_id,chunk_text,confirmed_0_1,reason
+A,q06,nd15-2018:D17#fixed3,"i lô hàng, mặt hàng nhập khẩu thuộc một trong các trường hợp sau đây:
+a) Lô hàng, mặt hàng không đạt yêu cầu nhập khẩu tại lần kiểm tra trước đó;
+b) Lô hàng, mặt hàng không đạt yêu cầu trong các lần thanh tra, kiểm tra (nếu có);
+c) Có cảnh báo của Bộ Y tế, Bộ Nông nghiệp và Phát triển nông thôn, Bộ Công Thương, Ủy ban nhân dân cấp tỉnh hoặc của cơ quan có thẩm quyền tại nước ngoài hoặc của nhà sản xuất.
+4. Chuyển từ phương thức kiểm tra chặt sang phương thức kiểm tra thông thường trong các trườn",0,"Có trọn danh sách a)–c) nhưng mất chữ 'Kiểm tra chặt' ở đầu ('i lô hàng…'), không biết danh sách áp dụng cho phương thức nào."
+A,q07,luat-attp-vbhn61-2025:D44#fixed2," đã qua chiếu xạ, thực phẩm biến đổi gen, ngoài các quy định tại khoản 1 Điều này còn phải tuân thủ các quy định sau đây:
+a) Đối với thực phẩm chức năng phải ghi cụm từ “thực phẩm chức năng” và không được thể hiện dưới bất kỳ hình thức nào về tác dụng thay thế thuốc chữa bệnh;
+b) Đối với phụ gia thực phẩm phải ghi cụm từ “phụ gia thực phẩm” và các thông tin về phạm vi, liều lượng, cách sử dụng;
+c) Đối với thực phẩm đã qua chiếu xạ phải ghi cụm từ “thực phẩm đã qua chiếu xạ”;
+d) Đối với một số th",0,Có trọn điểm a) nhưng chunk không có chữ nào cho biết đây là quy định về nhãn.
+A,q11,nd15-2018:D4#fixed2,"àng xuất khẩu hoặc phục vụ cho việc sản xuất nội bộ của tổ chức, cá nhân không tiêu thụ tại thị trường trong nước được miễn thực hiện thủ tục tự công bố sản phẩm.",0,"Có vế 'được miễn thực hiện thủ tục tự công bố' nhưng mất chủ ngữ 'Sản phẩm, nguyên liệu… nhập khẩu chỉ dùng để sản xuất, gia công'."
+A,q17,luat-attp-vbhn61-2025:D39#fixed2,"ạt động chứng nhận an toàn thực phẩm được áp dụng chế độ kiểm tra giảm, trừ trường hợp có cảnh báo hoặc phát hiện có dấu hiệu vi phạm các quy định của pháp luật Việt Nam về an toàn thực phẩm.
+3. Chính phủ quy định cụ thể việc miễn kiểm tra nhà nước về an toàn thực phẩm đối với một số thực phẩm nhập khẩu; trình tự, thủ tục kiểm tra nhà nước về an toàn thực phẩm tại nước sẽ xuất khẩu thực phẩm vào Việt Nam theo điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.",0,"Có 'được áp dụng chế độ kiểm tra giảm, trừ…' nhưng mất chủ ngữ; chỉ đủ khi ghép với cửa sổ liền trước (không tính vì định nghĩa xét một chunk)."
+A,q19,nd15-2018:D13#fixed1,"Điều 13. Các trường hợp được miễn kiểm tra nhà nước về an toàn thực phẩm nhập khẩu (trừ các trường hợp có cảnh báo về an toàn thực phẩm)
+1. Sản phẩm đã được cấp Giấy tiếp nhận đăng ký bản công bố sản phẩm.
+2. Sản phẩm mang theo người nhập cảnh, gửi trước hoặc gửi sau chuyến đi của người nhập cảnh để phục vụ cho nhu cầu sinh hoạt hoặc mục đích chuyến đi; quà biếu, quà tặng trong định mức miễn thuế nhập khẩu theo quy định của pháp luật về thuế.
+3. Sản phẩm nhập khẩu dùng cho cá nhân của đối tượng ",0,"Có tên Điều (phạm vi, ngoại lệ) nhưng không có mục 6 'trưng bày hội chợ, triển lãm'."
+A,q20,luat-attp-vbhn61-2025:D21#fixed1,"Điều 21. Điều kiện bảo đảm an toàn thực phẩm trong vận chuyển thực phẩm
+1. Tổ chức, cá nhân vận chuyển thực phẩm phải bảo đảm các điều kiện sau đây:
+a) Phương tiện vận chuyển thực phẩm được chế tạo bằng vật liệu không làm ô nhiễm thực phẩm hoặc bao gói thực phẩm, dễ làm sạch;
+b) Bảo đảm điều kiện bảo quản thực phẩm trong suốt quá trình vận chuyển theo hướng dẫn của tổ chức, cá nhân sản xuất, kinh doanh;
+c) Không vận chuyển thực phẩm cùng hàng hóa độc hại hoặc có thể gây nhiễm chéo ảnh hưởng đến ",1,Chứa trọn đáp án 'Không vận chuyển thực phẩm cùng hàng hóa độc hại hoặc có thể gây nhiễm chéo ảnh hưởng đến'; chỉ thiếu 3 chữ cuối 'chất lượng thực phẩm' của quote.

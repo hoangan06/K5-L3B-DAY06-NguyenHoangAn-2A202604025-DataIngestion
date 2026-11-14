@@ -1,4 +1,10 @@
-# Core setup and PDF parsing. Choose and install an embedding SDK separately.
+# Core setup, database và đọc tài liệu
 psycopg[binary]==3.3.8
 pypdf>=5,<7
 python-dotenv>=1,<2
+python-docx>=1.1,<2
+beautifulsoup4>=4.12,<5
+# Embedding local (intfloat/multilingual-e5-base). Máy không có GPU NVIDIA nên cài torch bản CPU trước:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+sentence-transformers>=3,<6
+transformers>=4.41

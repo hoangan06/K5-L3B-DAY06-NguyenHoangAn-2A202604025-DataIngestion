@@ -1,0 +1,82 @@
+{
+  "run_at": "2026-11-14T07:01:12+00:00",
+  "embedder": {
+    "provider": "local (sentence-transformers)",
+    "model": "intfloat/multilingual-e5-base",
+    "dimensions": 768,
+    "max_seq_length": 512,
+    "device": "cpu",
+    "normalize": true,
+    "document_prefix": "passage: ",
+    "query_prefix": "query: ",
+    "sentence_transformers": "5.7.0",
+    "transformers": "5.23.0",
+    "torch": "2.15.0+cpu",
+    "cost_usd": 0.0
+  },
+  "store": {
+    "postgres": "16.16 (Debian 16.16-1.pgdg12+1)",
+    "pgvector": "0.8.7"
+  },
+  "search": "exact (không index ANN), cosine distance <=>",
+  "indexes": {
+    "fixed": {
+      "chunks": 339,
+      "passes": [
+        {
+          "pass": "lần 1",
+          "rows_before": 339,
+          "embedded": 0,
+          "written": 0,
+          "metadata_updated": 339,
+          "deleted_obsolete": 0,
+          "rows_after": 339,
+          "embed_seconds": 0.0,
+          "upsert_seconds": 0.03
+        },
+        {
+          "pass": "nạp lại cùng phiên bản",
+          "rows_before": 339,
+          "embedded": 0,
+          "written": 0,
+          "metadata_updated": 339,
+          "deleted_obsolete": 0,
+          "rows_after": 339,
+          "embed_seconds": 0.0,
+          "upsert_seconds": 0.02
+        }
+      ],
+      "reload_no_duplicate": true,
+      "full_embed_seconds": 18.27
+    },
+    "para": {
+      "chunks": 135,
+      "passes": [
+        {
+          "pass": "lần 1",
+          "rows_before": 135,
+          "embedded": 0,
+          "written": 0,
+          "metadata_updated": 135,
+          "deleted_obsolete": 0,
+          "rows_after": 135,
+          "embed_seconds": 0.0,
+          "upsert_seconds": 0.02
+        },
+        {
+          "pass": "nạp lại cùng phiên bản",
+          "rows_before": 135,
+          "embedded": 0,
+          "written": 0,
+          "metadata_updated": 135,
+          "deleted_obsolete": 0,
+          "rows_after": 135,
+          "embed_seconds": 0.0,
+          "upsert_seconds": 0.01
+        }
+      ],
+      "reload_no_duplicate": true,
+      "full_embed_seconds": 18.31
+    }
+  }
+}

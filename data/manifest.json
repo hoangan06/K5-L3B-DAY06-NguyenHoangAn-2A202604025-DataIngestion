@@ -1,0 +1,35 @@
+{
+  "corpus": "Văn bản pháp luật về an toàn thực phẩm (Việt Nam)",
+  "unit_rule": "Văn bản DOCX/HTML không có trang vật lý. Mỗi Điều có nội dung là một đơn vị nguồn độc lập (page = số Điều). Điều bị bãi bỏ / không có nội dung không được tính. Phần trước Điều 1 (quốc hiệu, căn cứ ban hành) và mọi thứ từ 'Nơi nhận:' trở đi (khối chữ ký, phụ lục biểu mẫu) không thuộc corpus. Danh sách đơn vị và số ký tự từng đơn vị: data/manifest_units.csv (sinh bởi `python -m src.run ingest`).",
+  "license_note": "Văn bản quy phạm pháp luật không thuộc đối tượng bảo hộ quyền tác giả (Luật Sở hữu trí tuệ số 50/2005/QH11, sửa đổi 2009, 2019, 2022, Điều 15 khoản 2). Repo chỉ chứa nội dung văn bản; với NĐ 15 chỉ giữ khối toàn văn, đã bỏ giao diện/quảng cáo của trang lưu.",
+  "documents": [
+    {
+      "source_id": "luat-attp-vbhn61-2025",
+      "document_id": "luat-attp-vbhn61-2025",
+      "title": "Luật An toàn thực phẩm (văn bản hợp nhất)",
+      "so_hieu": "61/VBHN-VPQH",
+      "loai_van_ban": "luat",
+      "issued": "15/8/2025 (ngày ký văn bản hợp nhất)",
+      "version_note": "Văn bản hợp nhất Luật 55/2010/QH12 và các luật sửa đổi tính đến VBHN 61/VBHN-VPQH",
+      "source_path": "data/raw/luat_attp_vbhn61_2025.docx",
+      "source_url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-61-vbhn-vpqh-45855.htm",
+      "license_or_permission": "Văn bản quy phạm pháp luật — không thuộc đối tượng bảo hộ quyền tác giả (Luật SHTT, Điều 15 khoản 2); file .docx tải từ Công báo Chính phủ",
+      "accessed_at": "2026-07-18",
+      "accessed_note": "Ngày tải về lấy theo thời điểm lưu file gốc trong Project 4"
+    },
+    {
+      "source_id": "nd15-2018",
+      "document_id": "nd15-2018",
+      "title": "Nghị định quy định chi tiết thi hành một số điều của Luật An toàn thực phẩm",
+      "so_hieu": "15/2018/NĐ-CP",
+      "loai_van_ban": "nghi_dinh",
+      "issued": "02/02/2018",
+      "version_note": "Văn bản gốc; chưa hợp nhất các sửa đổi sau năm 2018 (nếu có) — xem phần Hạn chế trong báo cáo",
+      "source_path": "data/raw/nd15_2018_content.html",
+      "source_url": "https://thuvienphapluat.vn/van-ban/The-thao-Y-te/Nghi-dinh-15-2018-ND-CP-huong-dan-Luat-an-toan-thuc-pham-341254.aspx",
+      "license_or_permission": "Văn bản quy phạm pháp luật — không thuộc đối tượng bảo hộ quyền tác giả (Luật SHTT, Điều 15 khoản 2); chỉ trích khối toàn văn div.cldivContentDocVn từ trang đã lưu",
+      "accessed_at": "2026-07-18",
+      "accessed_note": "Ngày tải về lấy theo thời điểm lưu file gốc trong Project 4"
+    }
+  ]
+}

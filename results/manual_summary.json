@@ -1,0 +1,85 @@
+{
+  "run_at": "2026-11-14T07:14:18+00:00",
+  "matches_current_traces": true,
+  "equivalent_evidence_confirmed": [
+    [
+      "q20",
+      "luat-attp-vbhn61-2025:D21#fixed1"
+    ]
+  ],
+  "coherence": {
+    "A": {
+      "labelled": "10/10",
+      "count_0_1_2": [
+        3,
+        3,
+        4
+      ],
+      "mean_of_2": 1.1
+    },
+    "B": {
+      "labelled": "10/10",
+      "count_0_1_2": [
+        0,
+        0,
+        10
+      ],
+      "mean_of_2": 2.0
+    },
+    "C": {
+      "labelled": "10/10",
+      "count_0_1_2": [
+        0,
+        0,
+        10
+      ],
+      "mean_of_2": 2.0
+    }
+  },
+  "grounding": {
+    "A": {
+      "labelled": "5/5",
+      "count_0_1_2": [
+        1,
+        0,
+        4
+      ],
+      "mean_of_2": 1.6
+    },
+    "B": {
+      "labelled": "5/5",
+      "count_0_1_2": [
+        0,
+        0,
+        5
+      ],
+      "mean_of_2": 2.0
+    },
+    "C": {
+      "labelled": "5/5",
+      "count_0_1_2": [
+        0,
+        0,
+        5
+      ],
+      "mean_of_2": 2.0
+    }
+  },
+  "metadata": {
+    "A": {
+      "correct": "15/15",
+      "unlabelled": 0,
+      "filter_compliance_test": "0/2"
+    },
+    "B": {
+      "correct": "15/15",
+      "unlabelled": 0,
+      "filter_compliance_test": "0/2"
+    },
+    "C": {
+      "correct": "15/15",
+      "unlabelled": 0,
+      "filter_compliance_test": "2/2"
+    }
+  }
+}

@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed_size,500 ký tự,50,"document_id, source, page(Điều), loai_van_ban, so_hieu, chuong, ten_dieu",không,"intfloat/multilingual-e5-base (768d, local)","Baseline: cửa sổ 500 ký tự cắt ngang Khoản → evidence dài dễ bị tách, Hit@3 thấp hơn B",8/15,11/15,3/5,3/5,index=fixed; tiền tố tên Điều=không
+B,by_paragraph (Điều→Khoản→Điểm),500 token e5 (gồm 'passage: ' và tiền tố),0,"document_id, source, page(Điều), loai_van_ban, so_hieu, chuong, ten_dieu",không,"intfloat/multilingual-e5-base (768d, local)",Chunk theo cấu trúc + tiền tố tên Điều → Evidence Hit@3 dev >= A,12/15,14/15,4/5,5/5,index=para; tiền tố tên Điều=có
+C,giống B (dùng chung index),500 token e5,0,"document_id, source, page(Điều), loai_van_ban, so_hieu, chuong, ten_dieu",loai_van_ban khi câu hỏi có filter,"intfloat/multilingual-e5-base (768d, local)",Như B + filter loai_van_ban khi câu hỏi có filter → không thấp hơn B trên câu filter; câu không filter giữ nguyên top-3,12/15,14/15,4/5,5/5,index=para; tiền tố tên Điều=có

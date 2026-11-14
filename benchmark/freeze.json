@@ -1,0 +1,13 @@
+{
+  "frozen_at": "2026-11-14T06:39:39+00:00",
+  "questions_sha256": "f936763a2a75722ca7002207ef92d222d67de2774eb3279b2f31ed5f4d12a3a8",
+  "note": "Chốt bộ câu hỏi + split trước khi chạy retrieval.",
+  "history": [
+    {
+      "frozen_at": "2026-11-14T04:53:15+00:00",
+      "questions_sha256": "979094bc6a535079f297f3a7008dceb824f8f362267e7299ca3bd989837cc61e",
+      "replaced_at": "2026-11-14T06:39:39+00:00",
+      "reason": "q04: thu hẹp expected_answer cho khớp evidence; không ảnh hưởng chỉ số"
+    }
+  ]
+}

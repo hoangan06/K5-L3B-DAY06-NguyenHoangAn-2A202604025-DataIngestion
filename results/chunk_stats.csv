@@ -1,0 +1,3 @@
+index,strategies,chunks,chars_total,chars_min,chars_median,chars_mean,chars_max,tokens_total,tokens_median,tokens_max,over_512_tokens_truncated,oversize_pieces,chunk_seconds
+fixed,A,339,144788,55,500,427.1,500,37525,126,145,0,0,0.001
+para,"B,C",135,133568,128,932,989.4,1982,34009,227,493,0,0,0.176

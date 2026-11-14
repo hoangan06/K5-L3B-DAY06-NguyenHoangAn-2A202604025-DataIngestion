@@ -1,0 +1,170 @@
+{
+  "checked_at": "2026-11-14T06:56:13+00:00",
+  "n_questions": 20,
+  "splits": {
+    "dev": 15,
+    "test": 5
+  },
+  "filter_questions": {
+    "dev": 3,
+    "test": 2
+  },
+  "evidence_checks": [
+    {
+      "id": "q01",
+      "unit_id": "luat-attp-vbhn61-2025:D2",
+      "evidence_found": true,
+      "evidence_parts": 1,
+      "evidence_chars": 168
+    },
+    {
+      "id": "q02",
+      "unit_id": "luat-attp-vbhn61-2025:D37",
+      "evidence_found": true,
+      "evidence_parts": 1,
+      "evidence_chars": 88
+    },
+    {
+      "id": "q03",
+      "unit_id": "luat-attp-vbhn61-2025:D37",
+      "evidence_found": true,
+      "evidence_parts": 1,
+      "evidence_chars": 229
+    },
+    {
+      "id": "q04",
+      "unit_id": "nd15-2018:D12",
+      "evidence_found": true,
+      "evidence_parts": 1,
+      "evidence_chars": 369
+    },
+    {
+      "id": "q05",
+      "unit_id": "nd15-2018:D16",
+      "evidence_found": true,
+      "evidence_parts": 1,
+      "evidence_chars": 149
+    },
+    {
+      "id": "q05",
+      "unit_id": "nd15-2018:D19",
+      "evidence_found": true,
+      "evidence_parts": 1,
+      "evidence_chars": 137
+    },
+    {
+      "id": "q06",
+      "unit_id": "nd15-2018:D17",
+      "evidence_found": true,
+      "evidence_parts": 1,
+      "evidence_chars": 434
+    },
+    {
+      "id": "q07",
+      "unit_id": "luat-attp-vbhn61-2025:D44",
+      "evidence_found": true,
+      "evidence_parts": 2,
+      "evidence_chars": 170
+    },
+    {
+      "id": "q08",
+      "unit_id": "luat-attp-vbhn61-2025:D43",
+      "evidence_found": true,
+      "evidence_parts": 1,
+      "evidence_chars": 162
+    },
+    {
+      "id": "q09",
+      "unit_id": "nd15-2018:D26",
+      "evidence_found": true,
+      "evidence_parts": 2,
+      "evidence_chars": 282
+    },
+    {
+      "id": "q10",
+      "unit_id": "luat-attp-vbhn61-2025:D44",
+      "evidence_found": true,
+      "evidence_parts": 1,
+      "evidence_chars": 162
+    },
+    {
+      "id": "q11",
+      "unit_id": "nd15-2018:D4",
+      "evidence_found": true,
+      "evidence_parts": 1,
+      "evidence_chars": 236
+    },
+    {
+      "id": "q12",
+      "unit_id": "nd15-2018:D6",
+      "evidence_found": true,
+      "evidence_parts": 1,
+      "evidence_chars": 452
+    },
+    {
+      "id": "q13",
+      "unit_id": "luat-attp-vbhn61-2025:D54",
+      "evidence_found": true,
+      "evidence_parts": 1,
+      "evidence_chars": 291
+    },
+    {
+      "id": "q13",
+      "unit_id": "nd15-2018:D34",
+      "evidence_found": true,
+      "evidence_parts": 1,
+      "evidence_chars": 234
+    },
+    {
+      "id": "q14",
+      "unit_id": "luat-attp-vbhn61-2025:D55",
+      "evidence_found": true,
+      "evidence_parts": 1,
+      "evidence_chars": 159
+    },
+    {
+      "id": "q15",
+      "unit_id": "luat-attp-vbhn61-2025:D36",
+      "evidence_found": true,
+      "evidence_parts": 1,
+      "evidence_chars": 265
+    },
+    {
+      "id": "q16",
+      "unit_id": "nd15-2018:D24",
+      "evidence_found": true,
+      "evidence_parts": 1,
+      "evidence_chars": 235
+    },
+    {
+      "id": "q17",
+      "unit_id": "luat-attp-vbhn61-2025:D39",
+      "evidence_found": true,
+      "evidence_parts": 1,
+      "evidence_chars": 291
+    },
+    {
+      "id": "q18",
+      "unit_id": "nd15-2018:D25",
+      "evidence_found": true,
+      "evidence_parts": 1,
+      "evidence_chars": 259
+    },
+    {
+      "id": "q19",
+      "unit_id": "nd15-2018:D13",
+      "evidence_found": true,
+      "evidence_parts": 2,
+      "evidence_chars": 176
+    },
+    {
+      "id": "q20",
+      "unit_id": "luat-attp-vbhn61-2025:D21",
+      "evidence_found": true,
+      "evidence_parts": 1,
+      "evidence_chars": 111
+    }
+  ],
+  "problems": [],
+  "questions_sha256": "f936763a2a75722ca7002207ef92d222d67de2774eb3279b2f31ed5f4d12a3a8"
+}

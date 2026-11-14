@@ -1,0 +1,117 @@
+unit_id,document_id,page_dieu,ten_dieu,chuong,chars,counted
+luat-attp-vbhn61-2025:D1,luat-attp-vbhn61-2025,1,Phạm vi điều chỉnh,I,499,yes
+luat-attp-vbhn61-2025:D2,luat-attp-vbhn61-2025,2,Giải thích từ ngữ,I,4909,yes
+luat-attp-vbhn61-2025:D3,luat-attp-vbhn61-2025,3,Nguyên tắc quản lý an toàn thực phẩm,I,860,yes
+luat-attp-vbhn61-2025:D4,luat-attp-vbhn61-2025,4,Chính sách của Nhà nước về an toàn thực phẩm,I,1847,yes
+luat-attp-vbhn61-2025:D5,luat-attp-vbhn61-2025,5,Những hành vi bị cấm,I,2470,yes
+luat-attp-vbhn61-2025:D6,luat-attp-vbhn61-2025,6,Xử lý vi phạm pháp luật về an toàn thực phẩm,I,1214,yes
+luat-attp-vbhn61-2025:D7,luat-attp-vbhn61-2025,7,"Quyền và nghĩa vụ của tổ chức, cá nhân sản xuất thực phẩm",II,2557,yes
+luat-attp-vbhn61-2025:D8,luat-attp-vbhn61-2025,8,"Quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh thực phẩm",II,2226,yes
+luat-attp-vbhn61-2025:D9,luat-attp-vbhn61-2025,9,Quyền và nghĩa vụ của người tiêu dùng thực phẩm,II,1393,yes
+luat-attp-vbhn61-2025:D10,luat-attp-vbhn61-2025,10,Điều kiện chung về bảo đảm an toàn đối với thực phẩm,III,639,yes
+luat-attp-vbhn61-2025:D11,luat-attp-vbhn61-2025,11,Điều kiện bảo đảm an toàn đối với thực phẩm tươi sống,III,353,yes
+luat-attp-vbhn61-2025:D12,luat-attp-vbhn61-2025,12,Điều kiện bảo đảm an toàn đối với thực phẩm đã qua chế biến,III,663,yes
+luat-attp-vbhn61-2025:D13,luat-attp-vbhn61-2025,13,Điều kiện bảo đảm an toàn đối với thực phẩm tăng cường vi chất dinh dưỡng,III,601,yes
+luat-attp-vbhn61-2025:D14,luat-attp-vbhn61-2025,14,Điều kiện bảo đảm an toàn đối với thực phẩm chức năng,III,427,yes
+luat-attp-vbhn61-2025:D15,luat-attp-vbhn61-2025,15,Điều kiện bảo đảm an toàn đối với thực phẩm biến đổi gen,III,240,yes
+luat-attp-vbhn61-2025:D16,luat-attp-vbhn61-2025,16,Điều kiện bảo đảm an toàn đối với thực phẩm đã qua chiếu xạ,III,466,yes
+luat-attp-vbhn61-2025:D17,luat-attp-vbhn61-2025,17,Điều kiện bảo đảm an toàn đối với phụ gia thực phẩm và chất hỗ trợ chế biến thực phẩm,III,771,yes
+luat-attp-vbhn61-2025:D18,luat-attp-vbhn61-2025,18,"Điều kiện bảo đảm an toàn đối với dụng cụ, vật liệu bao gói, chứa đựng thực phẩm",III,657,yes
+luat-attp-vbhn61-2025:D19,luat-attp-vbhn61-2025,19,"Điều kiện bảo đảm an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh thực phẩm",IV,1314,yes
+luat-attp-vbhn61-2025:D20,luat-attp-vbhn61-2025,20,Điều kiện bảo đảm an toàn thực phẩm trong bảo quản thực phẩm,IV,1042,yes
+luat-attp-vbhn61-2025:D21,luat-attp-vbhn61-2025,21,Điều kiện bảo đảm an toàn thực phẩm trong vận chuyển thực phẩm,IV,692,yes
+luat-attp-vbhn61-2025:D22,luat-attp-vbhn61-2025,22,"Điều kiện bảo đảm an toàn thực phẩm trong sản xuất, kinh doanh thực phẩm nhỏ lẻ",IV,1538,yes
+luat-attp-vbhn61-2025:D23,luat-attp-vbhn61-2025,23,Điều kiện bảo đảm an toàn thực phẩm đối với cơ sở sản xuất thực phẩm tươi sống,IV,1197,yes
+luat-attp-vbhn61-2025:D24,luat-attp-vbhn61-2025,24,Điều kiện bảo đảm an toàn thực phẩm đối với cơ sở kinh doanh thực phẩm tươi sống,IV,577,yes
+luat-attp-vbhn61-2025:D25,luat-attp-vbhn61-2025,25,"Điều kiện bảo đảm an toàn thực phẩm đối với cơ sở sơ chế, chế biến thực phẩm",IV,271,yes
+luat-attp-vbhn61-2025:D26,luat-attp-vbhn61-2025,26,"Điều kiện bảo đảm an toàn thực phẩm đối với nguyên liệu, phụ gia thực phẩm, chất hỗ trợ chế biến thực phẩm, vi chất dinh dưỡng dùng để chế biến thực phẩm",IV,600,yes
+luat-attp-vbhn61-2025:D27,luat-attp-vbhn61-2025,27,Điều kiện bảo đảm an toàn thực phẩm đối với cơ sở kinh doanh thực phẩm đã qua chế biến,IV,967,yes
+luat-attp-vbhn61-2025:D28,luat-attp-vbhn61-2025,28,"Điều kiện bảo đảm an toàn thực phẩm đối với nơi chế biến, kinh doanh dịch vụ ăn uống",IV,739,yes
+luat-attp-vbhn61-2025:D29,luat-attp-vbhn61-2025,29,"Điều kiện bảo đảm an toàn thực phẩm đối với cơ sở chế biến, kinh doanh dịch vụ ăn uống",IV,412,yes
+luat-attp-vbhn61-2025:D30,luat-attp-vbhn61-2025,30,Điều kiện bảo đảm an toàn thực phẩm trong chế biến và bảo quản thực phẩm,IV,445,yes
+luat-attp-vbhn61-2025:D31,luat-attp-vbhn61-2025,31,Điều kiện bảo đảm an toàn thực phẩm đối với nơi bày bán thức ăn đường phố,IV,244,yes
+luat-attp-vbhn61-2025:D32,luat-attp-vbhn61-2025,32,"Điều kiện bảo đảm an toàn thực phẩm đối với nguyên liệu, dụng cụ ăn uống, chứa đựng thực phẩm và người kinh doanh thức ăn đường phố",IV,684,yes
+luat-attp-vbhn61-2025:D33,luat-attp-vbhn61-2025,33,Trách nhiệm quản lý kinh doanh thức ăn đường phố,IV,269,yes
+luat-attp-vbhn61-2025:D34,luat-attp-vbhn61-2025,34,"Đối tượng, điều kiện cấp, thu hồi Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm",V,685,yes
+luat-attp-vbhn61-2025:D35,luat-attp-vbhn61-2025,35,"Thẩm quyền cấp, thu hồi Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm",V,311,yes
+luat-attp-vbhn61-2025:D36,luat-attp-vbhn61-2025,36,"Hồ sơ, trình tự, thủ tục cấp Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm",V,1398,yes
+luat-attp-vbhn61-2025:D37,luat-attp-vbhn61-2025,37,Thời hạn hiệu lực của Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm,V,496,yes
+luat-attp-vbhn61-2025:D38,luat-attp-vbhn61-2025,38,Điều kiện bảo đảm an toàn đối với thực phẩm nhập khẩu,VI,1122,yes
+luat-attp-vbhn61-2025:D39,luat-attp-vbhn61-2025,39,Kiểm tra nhà nước về an toàn thực phẩm đối với thực phẩm nhập khẩu,VI,932,yes
+luat-attp-vbhn61-2025:D40,luat-attp-vbhn61-2025,40,"Trình tự, thủ tục và phương thức kiểm tra nhà nước về an toàn thực phẩm đối với thực phẩm nhập khẩu",VI,1239,yes
+luat-attp-vbhn61-2025:D41,luat-attp-vbhn61-2025,41,Điều kiện bảo đảm an toàn đối với thực phẩm xuất khẩu,VI,339,yes
+luat-attp-vbhn61-2025:D42,luat-attp-vbhn61-2025,42,Chứng nhận đối với thực phẩm xuất khẩu,VI,511,yes
+luat-attp-vbhn61-2025:D43,luat-attp-vbhn61-2025,43,Quảng cáo thực phẩm,VII,841,yes
+luat-attp-vbhn61-2025:D44,luat-attp-vbhn61-2025,44,Ghi nhãn thực phẩm,VII,1262,yes
+luat-attp-vbhn61-2025:D45,luat-attp-vbhn61-2025,45,Yêu cầu đối với việc kiểm nghiệm thực phẩm,VIII,578,yes
+luat-attp-vbhn61-2025:D46,luat-attp-vbhn61-2025,46,Cơ sở kiểm nghiệm thực phẩm,VIII,795,yes
+luat-attp-vbhn61-2025:D47,luat-attp-vbhn61-2025,47,Kiểm nghiệm phục vụ giải quyết tranh chấp về an toàn thực phẩm,VIII,634,yes
+luat-attp-vbhn61-2025:D48,luat-attp-vbhn61-2025,48,Chi phí lấy mẫu và kiểm nghiệm thực phẩm,VIII,984,yes
+luat-attp-vbhn61-2025:D49,luat-attp-vbhn61-2025,49,Đối tượng phải được phân tích nguy cơ đối với an toàn thực phẩm,VIII,406,yes
+luat-attp-vbhn61-2025:D50,luat-attp-vbhn61-2025,50,Hoạt động phân tích nguy cơ đối với an toàn thực phẩm,VIII,1356,yes
+luat-attp-vbhn61-2025:D51,luat-attp-vbhn61-2025,51,Trách nhiệm thực hiện phân tích nguy cơ đối với an toàn thực phẩm,VIII,284,yes
+luat-attp-vbhn61-2025:D52,luat-attp-vbhn61-2025,52,"Phòng ngừa, ngăn chặn sự cố về an toàn thực phẩm",VIII,1411,yes
+luat-attp-vbhn61-2025:D53,luat-attp-vbhn61-2025,53,Khắc phục sự cố về an toàn thực phẩm,VIII,1646,yes
+luat-attp-vbhn61-2025:D54,luat-attp-vbhn61-2025,54,Truy xuất nguồn gốc thực phẩm đối với thực phẩm không bảo đảm an toàn,VIII,1025,yes
+luat-attp-vbhn61-2025:D55,luat-attp-vbhn61-2025,55,Thu hồi và xử lý đối với thực phẩm không bảo đảm an toàn,VIII,2572,yes
+luat-attp-vbhn61-2025:D56,luat-attp-vbhn61-2025,56,"Mục đích, yêu cầu của thông tin, giáo dục, truyền thông về an toàn thực phẩm",IX,817,yes
+luat-attp-vbhn61-2025:D57,luat-attp-vbhn61-2025,57,"Nội dung thông tin, giáo dục, truyền thông về an toàn thực phẩm",IX,495,yes
+luat-attp-vbhn61-2025:D58,luat-attp-vbhn61-2025,58,"Đối tượng tiếp cận thông tin, giáo dục, truyền thông về an toàn thực phẩm",IX,596,yes
+luat-attp-vbhn61-2025:D59,luat-attp-vbhn61-2025,59,"Hình thức thông tin, giáo dục, truyền thông về an toàn thực phẩm",IX,514,yes
+luat-attp-vbhn61-2025:D60,luat-attp-vbhn61-2025,60,"Trách nhiệm trong thông tin, giáo dục, truyền thông về an toàn thực phẩm",IX,1902,yes
+luat-attp-vbhn61-2025:D61,luat-attp-vbhn61-2025,61,Trách nhiệm quản lý nhà nước về an toàn thực phẩm,X,471,yes
+luat-attp-vbhn61-2025:D62,luat-attp-vbhn61-2025,62,Trách nhiệm quản lý nhà nước về an toàn thực phẩm của Bộ Y tế,X,1778,yes
+luat-attp-vbhn61-2025:D63,luat-attp-vbhn61-2025,63,Trách nhiệm của Bộ Nông nghiệp và Phát triển nông thôn,X,1268,yes
+luat-attp-vbhn61-2025:D64,luat-attp-vbhn61-2025,64,Trách nhiệm của Bộ Công Thương,X,1258,yes
+luat-attp-vbhn61-2025:D65,luat-attp-vbhn61-2025,65,Trách nhiệm quản lý nhà nước của Ủy ban nhân dân các cấp,X,1143,yes
+luat-attp-vbhn61-2025:D67,luat-attp-vbhn61-2025,67,Nội dung thanh tra về an toàn thực phẩm,X,618,yes
+luat-attp-vbhn61-2025:D68,luat-attp-vbhn61-2025,68,Trách nhiệm kiểm tra an toàn thực phẩm,X,1366,yes
+luat-attp-vbhn61-2025:D69,luat-attp-vbhn61-2025,69,Quyền hạn và nhiệm vụ của cơ quan quản lý an toàn thực phẩm trong kiểm tra an toàn thực phẩm,X,1259,yes
+luat-attp-vbhn61-2025:D70,luat-attp-vbhn61-2025,70,Đoàn kiểm tra,X,1488,yes
+luat-attp-vbhn61-2025:D71,luat-attp-vbhn61-2025,71,Hiệu lực thi hành,XI,190,yes
+luat-attp-vbhn61-2025:D72,luat-attp-vbhn61-2025,72,Quy định chi tiết và hướng dẫn thi hành,XI,228,yes
+nd15-2018:D1,nd15-2018,1,Phạm vi điều chỉnh,I,675,yes
+nd15-2018:D2,nd15-2018,2,Đối tượng áp dụng,I,289,yes
+nd15-2018:D3,nd15-2018,3,Giải thích từ ngữ,I,3225,yes
+nd15-2018:D4,nd15-2018,4,Tự công bố sản phẩm,II,612,yes
+nd15-2018:D5,nd15-2018,5,"Hồ sơ, trình tự tự công bố sản phẩm",II,2417,yes
+nd15-2018:D6,nd15-2018,6,Đăng ký bản công bố sản phẩm,III,489,yes
+nd15-2018:D7,nd15-2018,7,Hồ sơ đăng ký bản công bố sản phẩm,III,3523,yes
+nd15-2018:D8,nd15-2018,8,Trình tự đăng ký bản công bố sản phẩm,III,3701,yes
+nd15-2018:D9,nd15-2018,9,Bảo đảm an toàn đối với thực phẩm có thành phần từ sinh vật biến đổi gen và sản phẩm của sinh vật biến đổi gen,IV,798,yes
+nd15-2018:D10,nd15-2018,10,"Ghi nhãn đối với hàng hóa chứa sinh vật biến đổi gen, sản phẩm của sinh vật biến đổi gen sử dụng làm thực phẩm",IV,1097,yes
+nd15-2018:D11,nd15-2018,11,Cấp Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm,V,505,yes
+nd15-2018:D12,nd15-2018,12,Cơ sở không thuộc diện cấp Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm,V,1038,yes
+nd15-2018:D13,nd15-2018,13,Các trường hợp được miễn kiểm tra nhà nước về an toàn thực phẩm nhập khẩu (trừ các trường hợp có cảnh báo về an toàn thực phẩm),VI,1172,yes
+nd15-2018:D14,nd15-2018,14,"Yêu cầu đối với sản phẩm động vật trên cạn, sản phẩm động vật thủy sản, sản phẩm thực vật dùng làm thực phẩm nhập khẩu",VI,1698,yes
+nd15-2018:D15,nd15-2018,15,Cơ quan kiểm tra nhà nước đối với thực phẩm nhập khẩu,VI,2029,yes
+nd15-2018:D16,nd15-2018,16,Phương thức kiểm tra,VI,452,yes
+nd15-2018:D17,nd15-2018,17,Áp dụng phương thức kiểm tra,VI,1770,yes
+nd15-2018:D18,nd15-2018,18,Hồ sơ đăng ký kiểm tra,VI,1503,yes
+nd15-2018:D19,nd15-2018,19,Trình tự kiểm tra thực phẩm nhập khẩu,VI,2436,yes
+nd15-2018:D20,nd15-2018,20,Xử lý thực phẩm không đạt yêu cầu thực phẩm nhập khẩu,VI,1130,yes
+nd15-2018:D21,nd15-2018,21,Quyền và nghĩa vụ của chủ hàng,VI,1077,yes
+nd15-2018:D22,nd15-2018,22,"Thủ tục đăng ký quốc gia, vùng lãnh thổ và cơ sở sản xuất, kinh doanh vào danh sách xuất khẩu thực phẩm vào Việt Nam và kiểm tra nhà nước về an toàn thực phẩm tại nước xuất khẩu",VI,3342,yes
+nd15-2018:D23,nd15-2018,23,Kiểm tra nhà nước đối với thực phẩm xuất khẩu,VI,536,yes
+nd15-2018:D24,nd15-2018,24,Nội dung ghi nhãn bắt buộc,VII,757,yes
+nd15-2018:D25,nd15-2018,25,Miễn một số nội dung ghi nhãn bắt buộc,VII,1002,yes
+nd15-2018:D26,nd15-2018,26,Các thực phẩm phải đăng ký nội dung trước khi quảng cáo,VIII,292,yes
+nd15-2018:D27,nd15-2018,27,Đăng ký nội dung quảng cáo thực phẩm,VIII,4003,yes
+nd15-2018:D28,nd15-2018,28,Điều kiện bảo đảm an toàn thực phẩm trong sản xuất thực phẩm bảo vệ sức khỏe,IX,3108,yes
+nd15-2018:D29,nd15-2018,29,"Hồ sơ, trình tự, thẩm quyền cấp, cấp lại Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm đạt yêu cầu Thực hành sản xuất tốt (GMP) thực phẩm bảo vệ sức khỏe",IX,3355,yes
+nd15-2018:D30,nd15-2018,30,Quy định về điều kiện bảo đảm an toàn thực phẩm đối với phụ gia thực phẩm,X,871,yes
+nd15-2018:D31,nd15-2018,31,Quy định về phụ gia thực phẩm đơn chất,X,298,yes
+nd15-2018:D32,nd15-2018,32,Quy định về phụ gia thực phẩm hỗn hợp có công dụng mới,X,437,yes
+nd15-2018:D33,nd15-2018,33,Quy định về sử dụng phụ gia thực phẩm,X,775,yes
+nd15-2018:D34,nd15-2018,34,Truy xuất nguồn gốc đối với sản phẩm không bảo đảm an toàn,XI,371,yes
+nd15-2018:D35,nd15-2018,35,Thực hiện việc truy xuất nguồn gốc đối với sản phẩm không bảo đảm an toàn,XI,759,yes
+nd15-2018:D36,nd15-2018,36,Nguyên tắc phân công trách nhiệm quản lý nhà nước về an toàn thực phẩm,XII,1428,yes
+nd15-2018:D37,nd15-2018,37,Trách nhiệm quản lý nhà nước về an toàn thực phẩm của Bộ Y tế,XII,2082,yes
+nd15-2018:D38,nd15-2018,38,Trách nhiệm quản lý nhà nước về an toàn thực phẩm của Bộ Nông nghiệp và Phát triển nông thôn,XII,1871,yes
+nd15-2018:D39,nd15-2018,39,Trách nhiệm quản lý nhà nước về an toàn thực phẩm của Bộ Công Thương,XII,1741,yes
+nd15-2018:D40,nd15-2018,40,Trách nhiệm quản lý nhà nước về an toàn thực phẩm của Ủy ban nhân dân cấp tỉnh,XII,2182,yes
+nd15-2018:D41,nd15-2018,41,Phối hợp trong hoạt động bảo đảm an toàn thực phẩm,XII,1578,yes
+nd15-2018:D42,nd15-2018,42,Điều khoản chuyển tiếp,XIII,427,yes
+nd15-2018:D43,nd15-2018,43,Hiệu lực thi hành,XIII,480,yes
+nd15-2018:D44,nd15-2018,44,Trách nhiệm thi hành,XIII,256,yes
+luat-attp-vbhn61-2025:D66,luat-attp-vbhn61-2025,66,Điều 66. (được bãi bỏ),,0,no (không có nội dung)

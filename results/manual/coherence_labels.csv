@@ -1,0 +1,171 @@
+﻿position_id,unit_id,char_offset,strategy,chunk_id,chunk_text,label_0_2,reason
+P01,luat-attp-vbhn61-2025:D6,607,A,luat-attp-vbhn61-2025:D6#fixed2,"oàn thực phẩm thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
+3. Mức phạt tiền đối với vi phạm hành chính quy định tại khoản 1 Điều này được thực hiện theo quy định của pháp luật về xử lý vi phạm hành chính; trường hợp áp dụng mức phạt cao nhất theo quy định của pháp luật về xử lý vi phạm hành chính mà vẫn còn thấp hơn 07 lần giá trị thực phẩm vi phạm thì mức phạt được áp dụng khôn",0,"Bắt đầu giữa từ ('oàn thực phẩm…'); khoản 2 mất chủ thể 'Người lợi dụng chức vụ, quyền hạn' nên không biết ai bị xử lý; khoản 3 bị cắt giữa từ ('khôn')."
+P01,luat-attp-vbhn61-2025:D6,607,B,luat-attp-vbhn61-2025:D6#para1,"Điều 6. Xử lý vi phạm pháp luật về an toàn thực phẩm
+1. Tổ chức, cá nhân sản xuất, kinh doanh thực phẩm vi phạm pháp luật về an toàn thực phẩm thì tùy theo tính chất, mức độ vi phạm mà bị xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường và khắc phục hậu quả theo quy định của pháp luật.
+2. Người lợi dụng chức vụ, quyền hạn vi phạm quy định của Luật này hoặc các quy định khác của pháp luật về an toàn thực phẩm thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
+3. Mức phạt tiền đối với vi phạm hành chính quy định tại khoản 1 Điều này được thực hiện theo quy định của pháp luật về xử lý vi phạm hành chính; trường hợp áp dụng mức phạt cao nhất theo quy định của pháp luật về xử lý vi phạm hành chính mà vẫn còn thấp hơn 07 lần giá trị thực phẩm vi phạm thì mức phạt được áp dụng không quá 07 lần giá trị thực phẩm vi phạm; tiền thu được do vi phạm mà có bị tịch thu theo quy định của pháp luật.
+4. Chính phủ quy định cụ thể về hành vi, hình thức và mức xử phạt các hành vi vi phạm hành chính trong lĩnh vực an toàn thực phẩm quy định tại Điều này.",2,"Trọn cả Điều trong một chunk, có tiêu đề; tự hiểu được."
+P01,luat-attp-vbhn61-2025:D6,607,C,luat-attp-vbhn61-2025:D6#para1,"Điều 6. Xử lý vi phạm pháp luật về an toàn thực phẩm
+1. Tổ chức, cá nhân sản xuất, kinh doanh thực phẩm vi phạm pháp luật về an toàn thực phẩm thì tùy theo tính chất, mức độ vi phạm mà bị xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường và khắc phục hậu quả theo quy định của pháp luật.
+2. Người lợi dụng chức vụ, quyền hạn vi phạm quy định của Luật này hoặc các quy định khác của pháp luật về an toàn thực phẩm thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
+3. Mức phạt tiền đối với vi phạm hành chính quy định tại khoản 1 Điều này được thực hiện theo quy định của pháp luật về xử lý vi phạm hành chính; trường hợp áp dụng mức phạt cao nhất theo quy định của pháp luật về xử lý vi phạm hành chính mà vẫn còn thấp hơn 07 lần giá trị thực phẩm vi phạm thì mức phạt được áp dụng không quá 07 lần giá trị thực phẩm vi phạm; tiền thu được do vi phạm mà có bị tịch thu theo quy định của pháp luật.
+4. Chính phủ quy định cụ thể về hành vi, hình thức và mức xử phạt các hành vi vi phạm hành chính trong lĩnh vực an toàn thực phẩm quy định tại Điều này.",2,"Chung chunk với B → nhãn như B. Trọn cả Điều trong một chunk, có tiêu đề; tự hiểu được."
+P02,luat-attp-vbhn61-2025:D18,328,A,luat-attp-vbhn61-2025:D18#fixed1,"Điều 18. Điều kiện bảo đảm an toàn đối với dụng cụ, vật liệu bao gói, chứa đựng thực phẩm
+1. Sản xuất từ nguyên vật liệu an toàn, bảo đảm không thôi nhiễm các chất độc hại, mùi vị lạ vào thực phẩm, bảo đảm chất lượng thực phẩm trong thời hạn sử dụng.
+2. Đáp ứng quy chuẩn kỹ thuật tương ứng, tuân thủ quy định đối với dụng cụ, vật liệu bao gói, chứa đựng thực phẩm do Bộ trưởng Bộ Y tế ban hành.
+3. Đăng ký bản công bố hợp quy với cơ quan nhà nước có thẩm quyền trước khi lưu thông trên thị trường.
+C",2,Có tiêu đề Điều 18 và trọn khoản 1–3 quanh vị trí; chỉ dính ký tự thừa 'C' ở cuối (đầu câu giao Chính phủ quy định chi tiết bị cắt).
+P02,luat-attp-vbhn61-2025:D18,328,B,luat-attp-vbhn61-2025:D18#para1,"Điều 18. Điều kiện bảo đảm an toàn đối với dụng cụ, vật liệu bao gói, chứa đựng thực phẩm
+1. Sản xuất từ nguyên vật liệu an toàn, bảo đảm không thôi nhiễm các chất độc hại, mùi vị lạ vào thực phẩm, bảo đảm chất lượng thực phẩm trong thời hạn sử dụng.
+2. Đáp ứng quy chuẩn kỹ thuật tương ứng, tuân thủ quy định đối với dụng cụ, vật liệu bao gói, chứa đựng thực phẩm do Bộ trưởng Bộ Y tế ban hành.
+3. Đăng ký bản công bố hợp quy với cơ quan nhà nước có thẩm quyền trước khi lưu thông trên thị trường.
+Chính phủ quy định cụ thể việc đăng ký bản công bố hợp quy và thời hạn của bản đăng ký công bố hợp quy đối với dụng cụ, vật liệu bao gói, chứa đựng thực phẩm.",2,"Trọn cả Điều trong một chunk, có tiêu đề; tự hiểu được."
+P02,luat-attp-vbhn61-2025:D18,328,C,luat-attp-vbhn61-2025:D18#para1,"Điều 18. Điều kiện bảo đảm an toàn đối với dụng cụ, vật liệu bao gói, chứa đựng thực phẩm
+1. Sản xuất từ nguyên vật liệu an toàn, bảo đảm không thôi nhiễm các chất độc hại, mùi vị lạ vào thực phẩm, bảo đảm chất lượng thực phẩm trong thời hạn sử dụng.
+2. Đáp ứng quy chuẩn kỹ thuật tương ứng, tuân thủ quy định đối với dụng cụ, vật liệu bao gói, chứa đựng thực phẩm do Bộ trưởng Bộ Y tế ban hành.
+3. Đăng ký bản công bố hợp quy với cơ quan nhà nước có thẩm quyền trước khi lưu thông trên thị trường.
+Chính phủ quy định cụ thể việc đăng ký bản công bố hợp quy và thời hạn của bản đăng ký công bố hợp quy đối với dụng cụ, vật liệu bao gói, chứa đựng thực phẩm.",2,"Chung chunk với B → nhãn như B. Trọn cả Điều trong một chunk, có tiêu đề; tự hiểu được."
+P03,luat-attp-vbhn61-2025:D29,206,A,luat-attp-vbhn61-2025:D29#fixed1,"Điều 29. Điều kiện bảo đảm an toàn thực phẩm đối với cơ sở chế biến, kinh doanh dịch vụ ăn uống
+1. Có dụng cụ, đồ chứa đựng riêng cho thực phẩm sống và thực phẩm chín.
+2. Dụng cụ nấu nướng, chế biến phải bảo đảm an toàn vệ sinh.
+3. Dụng cụ ăn uống phải được làm bằng vật liệu an toàn, rửa sạch, giữ khô.
+4. Tuân thủ quy định về sức khỏe, kiến thức và thực hành của người trực tiếp sản xuất, kinh doanh thực phẩm.",2,"Điều 29 ngắn, nằm trọn trong một cửa sổ, có tiêu đề."
+P03,luat-attp-vbhn61-2025:D29,206,B,luat-attp-vbhn61-2025:D29#para1,"Điều 29. Điều kiện bảo đảm an toàn thực phẩm đối với cơ sở chế biến, kinh doanh dịch vụ ăn uống
+1. Có dụng cụ, đồ chứa đựng riêng cho thực phẩm sống và thực phẩm chín.
+2. Dụng cụ nấu nướng, chế biến phải bảo đảm an toàn vệ sinh.
+3. Dụng cụ ăn uống phải được làm bằng vật liệu an toàn, rửa sạch, giữ khô.
+4. Tuân thủ quy định về sức khỏe, kiến thức và thực hành của người trực tiếp sản xuất, kinh doanh thực phẩm.",2,"Trọn cả Điều trong một chunk, có tiêu đề; tự hiểu được."
+P03,luat-attp-vbhn61-2025:D29,206,C,luat-attp-vbhn61-2025:D29#para1,"Điều 29. Điều kiện bảo đảm an toàn thực phẩm đối với cơ sở chế biến, kinh doanh dịch vụ ăn uống
+1. Có dụng cụ, đồ chứa đựng riêng cho thực phẩm sống và thực phẩm chín.
+2. Dụng cụ nấu nướng, chế biến phải bảo đảm an toàn vệ sinh.
+3. Dụng cụ ăn uống phải được làm bằng vật liệu an toàn, rửa sạch, giữ khô.
+4. Tuân thủ quy định về sức khỏe, kiến thức và thực hành của người trực tiếp sản xuất, kinh doanh thực phẩm.",2,"Chung chunk với B → nhãn như B. Trọn cả Điều trong một chunk, có tiêu đề; tự hiểu được."
+P04,luat-attp-vbhn61-2025:D41,169,A,luat-attp-vbhn61-2025:D41#fixed1,"Điều 41. Điều kiện bảo đảm an toàn đối với thực phẩm xuất khẩu
+1. Đáp ứng các điều kiện bảo đảm an toàn thực phẩm của Việt Nam.
+2. Phù hợp với quy định về an toàn thực phẩm của nước nhập khẩu theo hợp đồng hoặc điều ước quốc tế, thỏa thuận quốc tế thừa nhận lẫn nhau về kết quả đánh giá sự phù hợp với quốc gia, vùng lãnh thổ có liên quan.",2,"Điều 41 ngắn, nằm trọn trong một cửa sổ, có tiêu đề."
+P04,luat-attp-vbhn61-2025:D41,169,B,luat-attp-vbhn61-2025:D41#para1,"Điều 41. Điều kiện bảo đảm an toàn đối với thực phẩm xuất khẩu
+1. Đáp ứng các điều kiện bảo đảm an toàn thực phẩm của Việt Nam.
+2. Phù hợp với quy định về an toàn thực phẩm của nước nhập khẩu theo hợp đồng hoặc điều ước quốc tế, thỏa thuận quốc tế thừa nhận lẫn nhau về kết quả đánh giá sự phù hợp với quốc gia, vùng lãnh thổ có liên quan.",2,"Trọn cả Điều trong một chunk, có tiêu đề; tự hiểu được."
+P04,luat-attp-vbhn61-2025:D41,169,C,luat-attp-vbhn61-2025:D41#para1,"Điều 41. Điều kiện bảo đảm an toàn đối với thực phẩm xuất khẩu
+1. Đáp ứng các điều kiện bảo đảm an toàn thực phẩm của Việt Nam.
+2. Phù hợp với quy định về an toàn thực phẩm của nước nhập khẩu theo hợp đồng hoặc điều ước quốc tế, thỏa thuận quốc tế thừa nhận lẫn nhau về kết quả đánh giá sự phù hợp với quốc gia, vùng lãnh thổ có liên quan.",2,"Chung chunk với B → nhãn như B. Trọn cả Điều trong một chunk, có tiêu đề; tự hiểu được."
+P05,luat-attp-vbhn61-2025:D52,705,A,luat-attp-vbhn61-2025:D52#fixed2,"ụng thực phẩm;
+b) Giáo dục, tuyên truyền, phổ biến kiến thức và thực hành về an toàn thực phẩm cho tổ chức, cá nhân sản xuất, kinh doanh và người tiêu dùng;
+c) Kiểm tra, thanh tra an toàn thực phẩm trong sản xuất, kinh doanh thực phẩm;
+d) Phân tích nguy cơ ô nhiễm thực phẩm;
+đ) Điều tra, khảo sát và lưu trữ các số liệu về an toàn thực phẩm;
+e) Lưu mẫu thực phẩm.
+3. Ủy ban nhân dân các cấp có trách nhiệm tổ chức thực hiện các biện pháp phòng ngừa, ngăn chặn sự cố về an toàn thực phẩm trong phạm v",1,"Bắt đầu giữa từ ('ụng thực phẩm;'); các điểm b)–e) mất câu dẫn 'Các biện pháp phòng ngừa, ngăn chặn sự cố…' nên chỉ hiểu chung là việc về ATTP; khoản 3 bị cắt ở cuối."
+P05,luat-attp-vbhn61-2025:D52,705,B,luat-attp-vbhn61-2025:D52#para1,"Điều 52. Phòng ngừa, ngăn chặn sự cố về an toàn thực phẩm
+1. Tổ chức, cá nhân phát hiện dấu hiệu liên quan đến sự cố về an toàn thực phẩm có trách nhiệm thông báo ngay cho cơ sở khám bệnh, chữa bệnh, Ủy ban nhân dân địa phương nơi gần nhất hoặc cơ quan nhà nước có thẩm quyền để có biện pháp ngăn chặn kịp thời.
+2. Các biện pháp phòng ngừa, ngăn chặn sự cố về an toàn thực phẩm bao gồm:
+a) Bảo đảm an toàn trong quá trình sản xuất, kinh doanh và sử dụng thực phẩm;
+b) Giáo dục, tuyên truyền, phổ biến kiến thức và thực hành về an toàn thực phẩm cho tổ chức, cá nhân sản xuất, kinh doanh và người tiêu dùng;
+c) Kiểm tra, thanh tra an toàn thực phẩm trong sản xuất, kinh doanh thực phẩm;
+d) Phân tích nguy cơ ô nhiễm thực phẩm;
+đ) Điều tra, khảo sát và lưu trữ các số liệu về an toàn thực phẩm;
+e) Lưu mẫu thực phẩm.
+3. Ủy ban nhân dân các cấp có trách nhiệm tổ chức thực hiện các biện pháp phòng ngừa, ngăn chặn sự cố về an toàn thực phẩm trong phạm vi địa phương.
+4. Bộ Y tế, Bộ Nông nghiệp và Phát triển nông thôn, Bộ Công Thương tổ chức thực hiện chương trình giám sát, phòng ngừa, ngăn chặn sự cố an toàn thực phẩm; tổ chức thực hiện các biện pháp phòng ngừa, ngăn chặn đối với những sự cố về an toàn thực phẩm ở nước ngoài có nguy cơ ảnh hưởng đến Việt Nam thuộc lĩnh vực được phân công quản lý.
+5. Bộ Y tế chủ trì, phối hợp với các bộ, ngành có liên quan xây dựng hệ thống cảnh báo sự cố an toàn thực phẩm.",2,"Trọn cả Điều trong một chunk, có tiêu đề; tự hiểu được."
+P05,luat-attp-vbhn61-2025:D52,705,C,luat-attp-vbhn61-2025:D52#para1,"Điều 52. Phòng ngừa, ngăn chặn sự cố về an toàn thực phẩm
+1. Tổ chức, cá nhân phát hiện dấu hiệu liên quan đến sự cố về an toàn thực phẩm có trách nhiệm thông báo ngay cho cơ sở khám bệnh, chữa bệnh, Ủy ban nhân dân địa phương nơi gần nhất hoặc cơ quan nhà nước có thẩm quyền để có biện pháp ngăn chặn kịp thời.
+2. Các biện pháp phòng ngừa, ngăn chặn sự cố về an toàn thực phẩm bao gồm:
+a) Bảo đảm an toàn trong quá trình sản xuất, kinh doanh và sử dụng thực phẩm;
+b) Giáo dục, tuyên truyền, phổ biến kiến thức và thực hành về an toàn thực phẩm cho tổ chức, cá nhân sản xuất, kinh doanh và người tiêu dùng;
+c) Kiểm tra, thanh tra an toàn thực phẩm trong sản xuất, kinh doanh thực phẩm;
+d) Phân tích nguy cơ ô nhiễm thực phẩm;
+đ) Điều tra, khảo sát và lưu trữ các số liệu về an toàn thực phẩm;
+e) Lưu mẫu thực phẩm.
+3. Ủy ban nhân dân các cấp có trách nhiệm tổ chức thực hiện các biện pháp phòng ngừa, ngăn chặn sự cố về an toàn thực phẩm trong phạm vi địa phương.
+4. Bộ Y tế, Bộ Nông nghiệp và Phát triển nông thôn, Bộ Công Thương tổ chức thực hiện chương trình giám sát, phòng ngừa, ngăn chặn sự cố an toàn thực phẩm; tổ chức thực hiện các biện pháp phòng ngừa, ngăn chặn đối với những sự cố về an toàn thực phẩm ở nước ngoài có nguy cơ ảnh hưởng đến Việt Nam thuộc lĩnh vực được phân công quản lý.
+5. Bộ Y tế chủ trì, phối hợp với các bộ, ngành có liên quan xây dựng hệ thống cảnh báo sự cố an toàn thực phẩm.",2,"Chung chunk với B → nhãn như B. Trọn cả Điều trong một chunk, có tiêu đề; tự hiểu được."
+P06,luat-attp-vbhn61-2025:D64,629,A,luat-attp-vbhn61-2025:D64#fixed2,"u thực vật, sản phẩm chế biến bột và tinh bột và các thực phẩm khác theo quy định của Chính phủ.
+3. Quản lý an toàn thực phẩm đối với dụng cụ, vật liệu bao gói, chứa đựng thực phẩm trong quá trình sản xuất, chế biến, kinh doanh thực phẩm thuộc lĩnh vực được phân công quản lý.
+4. Ban hành chính sách phát triển chợ, siêu thị; trình cơ quan nhà nước có thẩm quyền ban hành quy định điều kiện kinh doanh thực phẩm tại các chợ, siêu thị.
+5. Chủ trì việc phòng chống thực phẩm giả, gian lận thương mại tr",0,Bắt đầu giữa từ; không có tiêu đề nên không biết các khoản 3–5 là trách nhiệm của Bộ nào (Bộ Công Thương); khoản 5 bị cắt.
+P06,luat-attp-vbhn61-2025:D64,629,B,luat-attp-vbhn61-2025:D64#para1,"Điều 64. Trách nhiệm của Bộ Công Thương
+1. Chủ trì xây dựng, ban hành hoặc trình cơ quan nhà nước có thẩm quyền ban hành và tổ chức thực hiện chính sách, chiến lược, kế hoạch và văn bản quy phạm pháp luật về an toàn thực phẩm thuộc lĩnh vực được phân công quản lý.
+2. Quản lý an toàn thực phẩm trong suốt quá trình sản xuất, chế biến, bảo quản, vận chuyển, xuất khẩu, nhập khẩu, kinh doanh đối với các loại rượu, bia, nước giải khát, sữa chế biến, dầu thực vật, sản phẩm chế biến bột và tinh bột và các thực phẩm khác theo quy định của Chính phủ.
+3. Quản lý an toàn thực phẩm đối với dụng cụ, vật liệu bao gói, chứa đựng thực phẩm trong quá trình sản xuất, chế biến, kinh doanh thực phẩm thuộc lĩnh vực được phân công quản lý.
+4. Ban hành chính sách phát triển chợ, siêu thị; trình cơ quan nhà nước có thẩm quyền ban hành quy định điều kiện kinh doanh thực phẩm tại các chợ, siêu thị.
+5. Chủ trì việc phòng chống thực phẩm giả, gian lận thương mại trong lưu thông, kinh doanh thực phẩm.
+6. Báo cáo định kỳ, đột xuất về công tác quản lý an toàn thực phẩm thuộc lĩnh vực được phân công quản lý.
+7. Kiểm tra, xử lý vi phạm pháp luật về an toàn thực phẩm trong quá trình sản xuất, xuất khẩu, nhập khẩu, kinh doanh thực phẩm thuộc lĩnh vực được phân công quản lý.",2,"Trọn cả Điều trong một chunk, có tiêu đề; tự hiểu được."
+P06,luat-attp-vbhn61-2025:D64,629,C,luat-attp-vbhn61-2025:D64#para1,"Điều 64. Trách nhiệm của Bộ Công Thương
+1. Chủ trì xây dựng, ban hành hoặc trình cơ quan nhà nước có thẩm quyền ban hành và tổ chức thực hiện chính sách, chiến lược, kế hoạch và văn bản quy phạm pháp luật về an toàn thực phẩm thuộc lĩnh vực được phân công quản lý.
+2. Quản lý an toàn thực phẩm trong suốt quá trình sản xuất, chế biến, bảo quản, vận chuyển, xuất khẩu, nhập khẩu, kinh doanh đối với các loại rượu, bia, nước giải khát, sữa chế biến, dầu thực vật, sản phẩm chế biến bột và tinh bột và các thực phẩm khác theo quy định của Chính phủ.
+3. Quản lý an toàn thực phẩm đối với dụng cụ, vật liệu bao gói, chứa đựng thực phẩm trong quá trình sản xuất, chế biến, kinh doanh thực phẩm thuộc lĩnh vực được phân công quản lý.
+4. Ban hành chính sách phát triển chợ, siêu thị; trình cơ quan nhà nước có thẩm quyền ban hành quy định điều kiện kinh doanh thực phẩm tại các chợ, siêu thị.
+5. Chủ trì việc phòng chống thực phẩm giả, gian lận thương mại trong lưu thông, kinh doanh thực phẩm.
+6. Báo cáo định kỳ, đột xuất về công tác quản lý an toàn thực phẩm thuộc lĩnh vực được phân công quản lý.
+7. Kiểm tra, xử lý vi phạm pháp luật về an toàn thực phẩm trong quá trình sản xuất, xuất khẩu, nhập khẩu, kinh doanh thực phẩm thuộc lĩnh vực được phân công quản lý.",2,"Chung chunk với B → nhãn như B. Trọn cả Điều trong một chunk, có tiêu đề; tự hiểu được."
+P07,nd15-2018:D4,306,A,nd15-2018:D4#fixed1,"Điều 4. Tự công bố sản phẩm
+1. Tổ chức, cá nhân sản xuất, kinh doanh thực phẩm thực hiện tự công bố thực phẩm đã qua chế biến bao gói sẵn, phụ gia thực phẩm, chất hỗ trợ chế biến thực phẩm, dụng cụ chứa đựng thực phẩm, vật liệu bao gói tiếp xúc trực tiếp với thực phẩm (sau đây gọi chung là sản phẩm) trừ các sản phẩm quy định tại khoản 2 Điều này và Điều 6 Nghị định này.
+2. Sản phẩm, nguyên liệu sản xuất, nhập khẩu chỉ dùng để sản xuất, gia công hàng xuất khẩu hoặc phục vụ cho việc sản xuất nội b",1,"Có tiêu đề và trọn khoản 1, nhưng khoản 1 dẫn chiếu 'trừ các sản phẩm quy định tại khoản 2' mà khoản 2 bị cắt ('sản xuất nội b') → mất ngoại lệ."
+P07,nd15-2018:D4,306,B,nd15-2018:D4#para1,"Điều 4. Tự công bố sản phẩm
+1. Tổ chức, cá nhân sản xuất, kinh doanh thực phẩm thực hiện tự công bố thực phẩm đã qua chế biến bao gói sẵn, phụ gia thực phẩm, chất hỗ trợ chế biến thực phẩm, dụng cụ chứa đựng thực phẩm, vật liệu bao gói tiếp xúc trực tiếp với thực phẩm (sau đây gọi chung là sản phẩm) trừ các sản phẩm quy định tại khoản 2 Điều này và Điều 6 Nghị định này.
+2. Sản phẩm, nguyên liệu sản xuất, nhập khẩu chỉ dùng để sản xuất, gia công hàng xuất khẩu hoặc phục vụ cho việc sản xuất nội bộ của tổ chức, cá nhân không tiêu thụ tại thị trường trong nước được miễn thực hiện thủ tục tự công bố sản phẩm.",2,"Trọn cả Điều trong một chunk, có tiêu đề; tự hiểu được."
+P07,nd15-2018:D4,306,C,nd15-2018:D4#para1,"Điều 4. Tự công bố sản phẩm
+1. Tổ chức, cá nhân sản xuất, kinh doanh thực phẩm thực hiện tự công bố thực phẩm đã qua chế biến bao gói sẵn, phụ gia thực phẩm, chất hỗ trợ chế biến thực phẩm, dụng cụ chứa đựng thực phẩm, vật liệu bao gói tiếp xúc trực tiếp với thực phẩm (sau đây gọi chung là sản phẩm) trừ các sản phẩm quy định tại khoản 2 Điều này và Điều 6 Nghị định này.
+2. Sản phẩm, nguyên liệu sản xuất, nhập khẩu chỉ dùng để sản xuất, gia công hàng xuất khẩu hoặc phục vụ cho việc sản xuất nội bộ của tổ chức, cá nhân không tiêu thụ tại thị trường trong nước được miễn thực hiện thủ tục tự công bố sản phẩm.",2,"Chung chunk với B → nhãn như B. Trọn cả Điều trong một chunk, có tiêu đề; tự hiểu được."
+P08,nd15-2018:D16,226,A,nd15-2018:D16#fixed1,"Điều 16. Phương thức kiểm tra
+Việc kiểm tra về an toàn thực phẩm nhập khẩu được thực hiện theo một trong các phương thức sau đây:
+1. Phương thức kiểm tra giảm, theo đó kiểm tra hồ sơ tối đa 5% trên tổng số lô hàng nhập khẩu trong vòng 01 năm do cơ quan hải quan lựa chọn ngẫu nhiên.
+2. Phương thức kiểm tra thông thường, theo đó chỉ kiểm tra hồ sơ của lô hàng nhập khẩu.
+3. Phương thức kiểm tra chặt, theo đó kiểm tra hồ sơ kết hợp lấy mẫu kiểm nghiệm.",2,"Điều 16 nằm trọn trong một cửa sổ, có tiêu đề và câu dẫn."
+P08,nd15-2018:D16,226,B,nd15-2018:D16#para1,"Điều 16. Phương thức kiểm tra
+Việc kiểm tra về an toàn thực phẩm nhập khẩu được thực hiện theo một trong các phương thức sau đây:
+1. Phương thức kiểm tra giảm, theo đó kiểm tra hồ sơ tối đa 5% trên tổng số lô hàng nhập khẩu trong vòng 01 năm do cơ quan hải quan lựa chọn ngẫu nhiên.
+2. Phương thức kiểm tra thông thường, theo đó chỉ kiểm tra hồ sơ của lô hàng nhập khẩu.
+3. Phương thức kiểm tra chặt, theo đó kiểm tra hồ sơ kết hợp lấy mẫu kiểm nghiệm.",2,"Trọn cả Điều trong một chunk, có tiêu đề; tự hiểu được."
+P08,nd15-2018:D16,226,C,nd15-2018:D16#para1,"Điều 16. Phương thức kiểm tra
+Việc kiểm tra về an toàn thực phẩm nhập khẩu được thực hiện theo một trong các phương thức sau đây:
+1. Phương thức kiểm tra giảm, theo đó kiểm tra hồ sơ tối đa 5% trên tổng số lô hàng nhập khẩu trong vòng 01 năm do cơ quan hải quan lựa chọn ngẫu nhiên.
+2. Phương thức kiểm tra thông thường, theo đó chỉ kiểm tra hồ sơ của lô hàng nhập khẩu.
+3. Phương thức kiểm tra chặt, theo đó kiểm tra hồ sơ kết hợp lấy mẫu kiểm nghiệm.",2,"Chung chunk với B → nhãn như B. Trọn cả Điều trong một chunk, có tiêu đề; tự hiểu được."
+P09,nd15-2018:D27,2001,A,nd15-2018:D27#fixed5,"i dung) dự kiến quảng cáo (bản có xác nhận của tổ chức, cá nhân);
+đ) Đối với nội dung quảng cáo ngoài công dụng, tính năng của sản phẩm ghi trong bản công bố sản phẩm thì phải có tài liệu khoa học chứng minh (bản sao có xác nhận của tổ chức, cá nhân);
+Các tài liệu trong hồ sơ đăng ký xác nhận nội dung quảng cáo phải được thể hiện bằng tiếng Việt; trường hợp có tài liệu bằng tiếng nước ngoài thì phải được dịch sang tiếng Việt và được công chứng.
+5. Thủ tục cấp Giấy xác nhận nội dung quảng cáo:
+a)",1,"Bắt đầu giữa từ ('i dung) dự kiến…'); điểm d)–đ) mất câu dẫn 'Hồ sơ đăng ký xác nhận nội dung quảng cáo gồm', chỉ đoán được qua câu cuối; đuôi '5. Thủ tục… a)' bị cắt."
+P09,nd15-2018:D27,2001,B,nd15-2018:D27#para2,"Điều 27. Đăng ký nội dung quảng cáo thực phẩm
+4. Hồ sơ đăng ký xác nhận nội dung quảng cáo gồm:
+a) Đơn đăng ký xác nhận nội dung quảng cáo theo Mẫu số 10 Phụ lục I ban hành kèm theo Nghị định này;
+b) Giấy tiếp nhận đăng ký bản công bố sản phẩm và Bản công bố sản phẩm đã được cơ quan có thẩm quyền xác nhận (bản sao có xác nhận của tổ chức, cá nhân);
+c) Mẫu nhãn sản phẩm (bản có xác nhận của tổ chức, cá nhân);
+d) Đối với quảng cáo trên báo nói, báo hình thì phải có kịch bản dự kiến quảng cáo và nội dung dự kiến quảng cáo ghi trong đĩa hình, đĩa âm thanh; đối với quảng cáo trên các phương tiện khác thì phải có ma két (mẫu nội dung) dự kiến quảng cáo (bản có xác nhận của tổ chức, cá nhân);
+đ) Đối với nội dung quảng cáo ngoài công dụng, tính năng của sản phẩm ghi trong bản công bố sản phẩm thì phải có tài liệu khoa học chứng minh (bản sao có xác nhận của tổ chức, cá nhân);
+Các tài liệu trong hồ sơ đăng ký xác nhận nội dung quảng cáo phải được thể hiện bằng tiếng Việt; trường hợp có tài liệu bằng tiếng nước ngoài thì phải được dịch sang tiếng Việt và được công chứng.",2,Part 2 có tiền tố tên Điều 27 và trọn khoản 4 (hồ sơ đăng ký xác nhận nội dung quảng cáo).
+P09,nd15-2018:D27,2001,C,nd15-2018:D27#para2,"Điều 27. Đăng ký nội dung quảng cáo thực phẩm
+4. Hồ sơ đăng ký xác nhận nội dung quảng cáo gồm:
+a) Đơn đăng ký xác nhận nội dung quảng cáo theo Mẫu số 10 Phụ lục I ban hành kèm theo Nghị định này;
+b) Giấy tiếp nhận đăng ký bản công bố sản phẩm và Bản công bố sản phẩm đã được cơ quan có thẩm quyền xác nhận (bản sao có xác nhận của tổ chức, cá nhân);
+c) Mẫu nhãn sản phẩm (bản có xác nhận của tổ chức, cá nhân);
+d) Đối với quảng cáo trên báo nói, báo hình thì phải có kịch bản dự kiến quảng cáo và nội dung dự kiến quảng cáo ghi trong đĩa hình, đĩa âm thanh; đối với quảng cáo trên các phương tiện khác thì phải có ma két (mẫu nội dung) dự kiến quảng cáo (bản có xác nhận của tổ chức, cá nhân);
+đ) Đối với nội dung quảng cáo ngoài công dụng, tính năng của sản phẩm ghi trong bản công bố sản phẩm thì phải có tài liệu khoa học chứng minh (bản sao có xác nhận của tổ chức, cá nhân);
+Các tài liệu trong hồ sơ đăng ký xác nhận nội dung quảng cáo phải được thể hiện bằng tiếng Việt; trường hợp có tài liệu bằng tiếng nước ngoài thì phải được dịch sang tiếng Việt và được công chứng.",2,Chung chunk với B → nhãn như B. Part 2 có tiền tố tên Điều 27 và trọn khoản 4 (hồ sơ đăng ký xác nhận nội dung quảng cáo).
+P10,nd15-2018:D39,870,A,nd15-2018:D39#fixed2,"n cấp quản lý an toàn thực phẩm trong suốt quá trình sản xuất, chế biến, bảo quản, vận chuyển, xuất khẩu, nhập khẩu, kinh doanh đối với các sản phẩm và cơ sở sản xuất, kinh doanh các sản phẩm thực phẩm quy định tại Phụ lục IV ban hành kèm theo Nghị định này.
+4. Quản lý an toàn thực phẩm đối với siêu thị, trung tâm thương mại, cửa hàng tiện ích, các cơ sở thuộc hệ thống dự trữ, phân phối và các loại hình kinh doanh khác.
+5. Tổ chức cấp Giấy chứng nhận lưu hành tự do đối với các sản phẩm thuộc lĩn",0,Bắt đầu giữa từ ('n cấp quản lý…'); không có tiêu đề nên không biết chủ thể là Bộ Công Thương; khoản 5 bị cắt.
+P10,nd15-2018:D39,870,B,nd15-2018:D39#para1,"Điều 39. Trách nhiệm quản lý nhà nước về an toàn thực phẩm của Bộ Công Thương
+1. Ban hành quy chuẩn kỹ thuật quốc gia đối với sản phẩm thuộc lĩnh vực được phân công quản lý quy định tại Điều 64 Luật an toàn thực phẩm và các nhóm sản phẩm trong Phụ lục IV ban hành kèm theo Nghị định này.
+2. Xây dựng và gửi Bộ Y tế ban hành quy định về mức giới hạn an toàn đối với các nhóm sản phẩm trong Phụ lục IV ban hành kèm theo Nghị định này.
+3. Quản lý và phân cấp quản lý an toàn thực phẩm trong suốt quá trình sản xuất, chế biến, bảo quản, vận chuyển, xuất khẩu, nhập khẩu, kinh doanh đối với các sản phẩm và cơ sở sản xuất, kinh doanh các sản phẩm thực phẩm quy định tại Phụ lục IV ban hành kèm theo Nghị định này.
+4. Quản lý an toàn thực phẩm đối với siêu thị, trung tâm thương mại, cửa hàng tiện ích, các cơ sở thuộc hệ thống dự trữ, phân phối và các loại hình kinh doanh khác.
+5. Tổ chức cấp Giấy chứng nhận lưu hành tự do đối với các sản phẩm thuộc lĩnh vực được phân công quản lý.
+6. Tổ chức cấp, phân cấp việc cấp giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm cho các tổ chức, cá nhân sản xuất, kinh doanh các sản phẩm thuộc lĩnh vực được phân công quản lý.
+7. Thực hiện việc kiểm tra phòng chống thực phẩm giả, gian lận thương mại trên thị trường đối với tất cả các loại thực phẩm, phụ gia thực phẩm, chất hỗ trợ chế biến thực phẩm, dụng cụ, vật liệu bao gói, chứa đựng thực phẩm.
+8. Chỉ định cơ sở kiểm nghiệm thực phẩm phục vụ quản lý nhà nước, cơ sở kiểm nghiệm kiểm chứng; kết luận cuối cùng khi có sự khác biệt về kết quả kiểm nghiệm giữa các cơ sở kiểm nghiệm thuộc lĩnh vực được phân công quản lý.
+9. Chỉ định cơ quan kiểm tra nhà nước về an toàn thực phẩm nhập khẩu đối với các sản phẩm thuộc lĩnh vực được phân công quản lý.",2,"Trọn cả Điều trong một chunk, có tiêu đề; tự hiểu được."
+P10,nd15-2018:D39,870,C,nd15-2018:D39#para1,"Điều 39. Trách nhiệm quản lý nhà nước về an toàn thực phẩm của Bộ Công Thương
+1. Ban hành quy chuẩn kỹ thuật quốc gia đối với sản phẩm thuộc lĩnh vực được phân công quản lý quy định tại Điều 64 Luật an toàn thực phẩm và các nhóm sản phẩm trong Phụ lục IV ban hành kèm theo Nghị định này.
+2. Xây dựng và gửi Bộ Y tế ban hành quy định về mức giới hạn an toàn đối với các nhóm sản phẩm trong Phụ lục IV ban hành kèm theo Nghị định này.
+3. Quản lý và phân cấp quản lý an toàn thực phẩm trong suốt quá trình sản xuất, chế biến, bảo quản, vận chuyển, xuất khẩu, nhập khẩu, kinh doanh đối với các sản phẩm và cơ sở sản xuất, kinh doanh các sản phẩm thực phẩm quy định tại Phụ lục IV ban hành kèm theo Nghị định này.
+4. Quản lý an toàn thực phẩm đối với siêu thị, trung tâm thương mại, cửa hàng tiện ích, các cơ sở thuộc hệ thống dự trữ, phân phối và các loại hình kinh doanh khác.
+5. Tổ chức cấp Giấy chứng nhận lưu hành tự do đối với các sản phẩm thuộc lĩnh vực được phân công quản lý.
+6. Tổ chức cấp, phân cấp việc cấp giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm cho các tổ chức, cá nhân sản xuất, kinh doanh các sản phẩm thuộc lĩnh vực được phân công quản lý.
+7. Thực hiện việc kiểm tra phòng chống thực phẩm giả, gian lận thương mại trên thị trường đối với tất cả các loại thực phẩm, phụ gia thực phẩm, chất hỗ trợ chế biến thực phẩm, dụng cụ, vật liệu bao gói, chứa đựng thực phẩm.
+8. Chỉ định cơ sở kiểm nghiệm thực phẩm phục vụ quản lý nhà nước, cơ sở kiểm nghiệm kiểm chứng; kết luận cuối cùng khi có sự khác biệt về kết quả kiểm nghiệm giữa các cơ sở kiểm nghiệm thuộc lĩnh vực được phân công quản lý.
+9. Chỉ định cơ quan kiểm tra nhà nước về an toàn thực phẩm nhập khẩu đối với các sản phẩm thuộc lĩnh vực được phân công quản lý.",2,"Chung chunk với B → nhãn như B. Trọn cả Điều trong một chunk, có tiêu đề; tự hiểu được."
